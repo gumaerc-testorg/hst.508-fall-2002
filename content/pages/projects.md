@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: b71e3652-e0c8-8219-a2ef-fe8e3b7cff2f
 ---
@@ -7,7 +10,7 @@ uid: b71e3652-e0c8-8219-a2ef-fe8e3b7cff2f
 Project Background
 ------------------
 
-The full written project in the form of an article or grant proposal as well as the figures ready for (Microsoft® Powerpoint® or Microsoft Word) presentation is due the day of lecture 12. We recommended that you start choosing a topic and team before the end of lecture 7.
+The full written project in the form of an article or grant proposal as well as the figures ready for (Microsoft{{< sup "®" >}} Powerpoint{{< sup "®" >}} or Microsoft Word) presentation is due the day of lecture 12. We recommended that you start choosing a topic and team before the end of lecture 7.
 
 The oral presentation will be limited to 6 minutes per person on each project team. This will give us 2 minutes (per person) for questions at the end. The presentations will be loaded on the computer in order of the schedule below, unless special requests are made.
 

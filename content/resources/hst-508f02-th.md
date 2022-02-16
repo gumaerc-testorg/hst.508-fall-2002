@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-508-genomics-and-computational-biology-fall-2002/5a76bdddfd47f6a72c4d3cf98bbabf3f_hst-508f02-th.jpg
+file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/5a76bdddfd47f6a72c4d3cf98bbabf3f_hst-508f02-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Next-generation DNA sequencing technology from University of California,
@@ -9,6 +9,8 @@ image_metadata:
   credit: ''
   image-alt: A photo of fast-moving colored lights which appear to be spinning in
     a circle above a machine.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-508f02-th.jpg
 uid: 5a76bddd-fd47-f6a7-2c4d-3cf98bbabf3f

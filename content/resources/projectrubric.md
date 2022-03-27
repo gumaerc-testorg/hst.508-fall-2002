@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b71e3652-e0c8-8219-a2ef-fe8e3b7cff2f
 resourcetype: Document
 title: projectrubric.pdf
 uid: d6eef7dc-44e1-490c-d0aa-85e6b5bb1dc3

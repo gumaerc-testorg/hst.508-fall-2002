@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 43fbbe59-f66c-1bdd-7edf-018322523e8a
 resourcetype: Document
 title: hierarchical.pdf
 uid: 92542a4a-ee5d-1727-0925-19dda6c01690

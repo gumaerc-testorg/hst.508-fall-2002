@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a2126f88-c4d3-03b6-e851-2464a13b968e
 resourcetype: Document
 title: gettingperlstarted.pdf
 uid: f1785f0d-07c9-2f25-9e7d-7e3c7b779be8

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Warm-up answers
 
   Mathematica notebook file'
-file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/3b109532dbdc6526283cb3683560ea08_ps1_mathematica_answers_2002.nb
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/3b109532dbdc6526283cb3683560ea08_ps1_mathematica_answers_2002.nb
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -15,3 +15,6 @@ resourcetype: Other
 title: ps1_mathematica_answers_2002.nb
 uid: 3b109532-dbdc-6526-283c-b3683560ea08
 ---
+Warm-up answers
+Mathematica notebook file
+

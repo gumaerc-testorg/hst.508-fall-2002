@@ -3,7 +3,7 @@ content_type: resource
 description: 'Perl Bonus
 
   Perl script'
-file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/52d827affbed3ff51cf08eeaf8beeed6_ps1_reading_frames.pl
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/52d827affbed3ff51cf08eeaf8beeed6_ps1_reading_frames.pl
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -15,3 +15,6 @@ resourcetype: Other
 title: ps1_reading_frames.pl
 uid: 52d827af-fbed-3ff5-1cf0-8eeaf8beeed6
 ---
+Perl Bonus
+Perl script
+

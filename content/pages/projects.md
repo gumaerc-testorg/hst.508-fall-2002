@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: Project guidelines, grading and suggested topics
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: b71e3652-e0c8-8219-a2ef-fe8e3b7cff2f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Background
@@ -29,7 +34,7 @@ The late policy is 5% (of 100%) off per day after the deadline of lecture 12 at 
 Grading Rubric
 --------------
 
-This rubric is designed to be as explicit as possible to ensure that all students are graded consistently. Each component of the project will be graded on a scale from 1 to 5. The scale is explicitly defined for each component but is roughly as follows: 1 = poor, 2 = needs improvement, 3 = good, 4 = excellent, 5 = outstanding. Download complete rubric file. ([PDF]({{< baseurl >}}/resources/projectrubric))
+This rubric is designed to be as explicit as possible to ensure that all students are graded consistently. Each component of the project will be graded on a scale from 1 to 5. The scale is explicitly defined for each component but is roughly as follows: 1 = poor, 2 = needs improvement, 3 = good, 4 = excellent, 5 = outstanding. Download complete rubric file. ({{% resource_link d6eef7dc-44e1-490c-d0aa-85e6b5bb1dc3 "PDF" %}})
 
 2002 Project Topic Ideas
 ------------------------

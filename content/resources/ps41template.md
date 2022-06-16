@@ -3,7 +3,7 @@ content_type: resource
 description: 'ps4-1-template file
 
   Perl script'
-file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/69354fc07b008fbe911140f7c89c8024_ps41template.pl
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/69354fc07b008fbe911140f7c89c8024_ps41template.pl
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -15,3 +15,6 @@ resourcetype: Other
 title: ps41template.pl
 uid: 69354fc0-7b00-8fbe-9111-40f7c89c8024
 ---
+ps4-1-template file
+Perl script
+

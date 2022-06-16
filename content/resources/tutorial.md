@@ -5,7 +5,7 @@ description: '[Mathematica tutorial]: interactive calculations using notebooks
   You normally interact with Mathematica through documents called notebooks. This
   tutorial is an example of a notebook. Notebooks can have many forms. But typically
   they consist of cells that can contain text, calculations, or graphics.'
-file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/da1700c380fb00c52349534225754b22_Tutorial.nb
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/da1700c380fb00c52349534225754b22_Tutorial.nb
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -17,3 +17,6 @@ resourcetype: Other
 title: Tutorial.nb
 uid: da1700c3-80fb-00c5-2349-534225754b22
 ---
+[Mathematica tutorial]: interactive calculations using notebooks
+You normally interact with Mathematica through documents called notebooks. This tutorial is an example of a notebook. Notebooks can have many forms. But typically they consist of cells that can contain text, calculations, or graphics.
+

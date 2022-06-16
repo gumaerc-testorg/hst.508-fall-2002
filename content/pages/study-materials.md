@@ -1,15 +1,21 @@
 ---
 content_type: page
+description: Perl guides, primer on microbiology, programs and courses in biology,
+  bioinformatics and biomedical studies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: a2126f88-c4d3-03b6-e851-2464a13b968e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Perl Guides
 -----------
 
-*   Getting started with Perl (Win) ([PDF]({{< baseurl >}}/resources/gettingperlstarted))
+*   Getting started with Perl (Win) ({{% resource_link f1785f0d-07c9-2f25-9e7d-7e3c7b779be8 "PDF" %}})
 *   [Perl Guide](http://www.perl.org/)
 
 Tutorials

@@ -3,7 +3,7 @@ content_type: resource
 description: 'The Central Dogma (skeleton code)
 
   Perl script'
-file: /media/courses/hst-508-genomics-and-computational-biology-fall-2002/61aeb53bc05924da00e630809af9b4ff_ps1_skeleton.pl
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/61aeb53bc05924da00e630809af9b4ff_ps1_skeleton.pl
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -15,3 +15,6 @@ resourcetype: Other
 title: ps1_skeleton.pl
 uid: 61aeb53b-c059-24da-00e6-30809af9b4ff
 ---
+The Central Dogma (skeleton code)
+Perl script
+

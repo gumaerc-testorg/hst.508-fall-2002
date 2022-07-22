@@ -9,6 +9,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/da1700c380fb
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: da1700c3-80fb-00c5-2349-534225754b22
 ---
 [Mathematica tutorial]: interactive calculations using notebooks
 You normally interact with Mathematica through documents called notebooks. This tutorial is an example of a notebook. Notebooks can have many forms. But typically they consist of cells that can contain text, calculations, or graphics.
-

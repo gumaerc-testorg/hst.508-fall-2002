@@ -7,6 +7,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/2aa8e4f87658
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 2aa8e4f8-7658-cd51-903f-3bc8b59c3163
 ---
 Normalized training dataset
 Gene data
-

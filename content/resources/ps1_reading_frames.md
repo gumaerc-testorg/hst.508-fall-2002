@@ -7,6 +7,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/52d827affbed
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 52d827af-fbed-3ff5-1cf0-8eeaf8beeed6
 ---
 Perl Bonus
 Perl script
-

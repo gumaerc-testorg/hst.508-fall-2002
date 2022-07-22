@@ -7,6 +7,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/3b109532dbdc
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 3b109532-dbdc-6526-283c-b3683560ea08
 ---
 Warm-up answers
 Mathematica notebook file
-

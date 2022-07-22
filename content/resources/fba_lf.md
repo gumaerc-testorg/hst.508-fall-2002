@@ -7,6 +7,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/07c8058ad15b
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 07c8058a-d15b-8985-7148-b3877b886862
 ---
 Flux Balance Analysis with Mathematica
 Mathematica notebook
-

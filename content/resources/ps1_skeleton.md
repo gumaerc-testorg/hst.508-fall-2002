@@ -7,6 +7,7 @@ file: /courses/hst-508-genomics-and-computational-biology-fall-2002/61aeb53bc059
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 61aeb53b-c059-24da-00e6-30809af9b4ff
 ---
 The Central Dogma (skeleton code)
 Perl script
-

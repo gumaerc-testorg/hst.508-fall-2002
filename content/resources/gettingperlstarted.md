@@ -4,6 +4,7 @@ description: Getting Started with Perl
 file: /courses/hst-508-genomics-and-computational-biology-fall-2002/f1785f0d07c92f259e7d7e3c7b779be8_gettingperlstarted.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Getting Started with Perl
-

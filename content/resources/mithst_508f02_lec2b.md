@@ -11,7 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITHST_508F02_lec2B.mp4
+title: '2B. Intro 2: Biological Side of Computational Biology. Comparative Genomics,
+  Models & A...'
 uid: b1d7b801-ae38-4e7a-8657-0f64e0eb3165
 video_files:
   video_captions_file: /courses/hst-508-genomics-and-computational-biology-fall-2002/1WXAn7fDiKUpMq2vqI9LoOdPGT6a6y9S0_transcript.webvtt

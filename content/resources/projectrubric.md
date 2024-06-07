@@ -2,6 +2,7 @@
 content_type: resource
 description: Final Projects Grading Rubric
 file: /courses/hst-508-genomics-and-computational-biology-fall-2002/d6eef7dc44e1490cd0aa85e6b5bb1dc3_projectrubric.pdf
+file_size: 219328
 file_type: application/pdf
 learning_resource_types:
 - Projects

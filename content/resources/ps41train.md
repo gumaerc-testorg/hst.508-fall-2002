@@ -4,6 +4,7 @@ description: 'Normalized training dataset
 
   Gene data'
 file: /courses/hst-508-genomics-and-computational-biology-fall-2002/2aa8e4f87658cd51903f3bc8b59c3163_ps41train.txt
+file_size: 14178
 file_type: text/plain
 learning_resource_types:
 - Assignments

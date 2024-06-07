@@ -25,7 +25,9 @@ videos:
   - e0abc273-6b3c-49f7-aa10-cd5914331610
   - e5ed298b-bd3b-4c1e-ab5a-053315fefa71
   - 32c9252b-cd8f-4c6a-85f1-f8ffb099f024
+  - cb740cec-2c80-4c06-ad98-467f37297329
   - 3d05354a-7d3c-4a27-bf68-ea899673c40a
+  - 93649d3e-8ae6-4d58-ba72-71af6cebf90e
   - 1399d59c-1ec2-4e93-8a75-a834447afec5
   - 6c2e21bf-32bf-45b6-b6b4-4238c66ed0e1
   - e8dafffc-1fbf-401e-87c8-b9a48b5334ad

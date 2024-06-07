@@ -2,6 +2,7 @@
 content_type: resource
 description: Getting Started with Perl
 file: /courses/hst-508-genomics-and-computational-biology-fall-2002/f1785f0d07c92f259e7d7e3c7b779be8_gettingperlstarted.pdf
+file_size: 67387
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

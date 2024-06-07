@@ -8,6 +8,7 @@ description: 'Problem Set 1, part 3: Warm-up Notebook
   tables and arrays. Many of us are new to Mathematica so if you discover anything
   useful, please include them in your finished notebook.'
 file: /courses/hst-508-genomics-and-computational-biology-fall-2002/7e565f187f460c128f37e41784c86485_Warmup.nb
+file_size: 25132
 file_type: text/plain
 learning_resource_types:
 - Assignments

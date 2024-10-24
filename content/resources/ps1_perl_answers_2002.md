@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Central Dogma: Solutions'
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/0b4188cab5b68e0b28c4124d621f74cc_ps1_perl_answers_2002.pl
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/0b4188cab5b68e0b28c4124d621f74cc_ps1_perl_answers_2002.pl
 file_size: 1748
 file_type: text/plain
 learning_resource_types:

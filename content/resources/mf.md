@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Flux Balance Analysis spreadsheet: fluxMaster'
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/575ca33010d4c2046909d377598b3124_mf.xls
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/575ca33010d4c2046909d377598b3124_mf.xls
 file_size: 28672
 file_type: application/msword
 learning_resource_types:

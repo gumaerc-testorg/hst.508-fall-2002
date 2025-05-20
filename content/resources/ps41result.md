@@ -2,7 +2,7 @@
 content_type: resource
 description: Clustering result of sample dataset using complete-linkage Euclidean
   distance
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/5b4b98b49404179e31538d6e2cb0c53b_ps41result.txt
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/5b4b98b49404179e31538d6e2cb0c53b_ps41result.txt
 file_size: 502
 file_type: text/plain
 learning_resource_types:

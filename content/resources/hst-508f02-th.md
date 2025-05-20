@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/5a76bdddfd47f6a72c4d3cf98bbabf3f_hst-508f02-th.jpg
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/5a76bdddfd47f6a72c4d3cf98bbabf3f_hst-508f02-th.jpg
 file_size: 13572
 file_type: image/jpeg
 image_metadata:

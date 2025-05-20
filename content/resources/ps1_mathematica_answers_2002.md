@@ -3,7 +3,7 @@ content_type: resource
 description: 'Warm-up answers
 
   Mathematica notebook file'
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/3b109532dbdc6526283cb3683560ea08_ps1_mathematica_answers_2002.nb
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/3b109532dbdc6526283cb3683560ea08_ps1_mathematica_answers_2002.nb
 file_size: 463234
 file_type: text/plain
 learning_resource_types:

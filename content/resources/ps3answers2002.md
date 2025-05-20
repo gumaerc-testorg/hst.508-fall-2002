@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 3 Solutions
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/ae5577f232173cb2692690fccac6ec8a_ps3answers2002.pdf
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/ae5577f232173cb2692690fccac6ec8a_ps3answers2002.pdf
 file_size: 89834
 file_type: application/pdf
 learning_resource_types:

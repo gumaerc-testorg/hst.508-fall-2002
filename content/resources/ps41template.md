@@ -3,7 +3,7 @@ content_type: resource
 description: 'ps4-1-template file
 
   Perl script'
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/69354fc07b008fbe911140f7c89c8024_ps41template.pl
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/69354fc07b008fbe911140f7c89c8024_ps41template.pl
 file_size: 3114
 file_type: text/plain
 learning_resource_types:

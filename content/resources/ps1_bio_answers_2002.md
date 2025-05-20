@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem set 1 solutions: Biology'
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/ca095d039e38551e81262c849c686945_ps1_bio_answers_2002.pdf
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/ca095d039e38551e81262c849c686945_ps1_bio_answers_2002.pdf
 file_size: 27045
 file_type: application/pdf
 learning_resource_types:

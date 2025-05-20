@@ -3,7 +3,7 @@ content_type: resource
 description: 'Flux Balance Analysis with Mathematica
 
   Mathematica notebook'
-file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/07c8058ad15b89857148b3877b886862_fba_lf.nb
+file: /courses/hst-508-genomics-and-computational-biology-fall-2002/07c8058ad15b89857148b3877b886862_fba_lf.nb
 file_size: 1983965
 file_type: text/plain
 learning_resource_types:

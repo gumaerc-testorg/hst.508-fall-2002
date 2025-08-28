@@ -2,7 +2,7 @@
 content_type: resource
 description: Clustering result of normalized training dataset using complete/single-linkage
   Euclidean distance
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/e8f8d3e6d55864f805a2e5289f36dc75_ps41result2.txt
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/e8f8d3e6d55864f805a2e5289f36dc75_ps41result2.txt
 file_size: 270
 file_type: text/plain
 learning_resource_types:

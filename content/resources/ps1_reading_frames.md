@@ -3,7 +3,7 @@ content_type: resource
 description: 'Perl Bonus
 
   Perl script'
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/52d827affbed3ff51cf08eeaf8beeed6_ps1_reading_frames.pl
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/52d827affbed3ff51cf08eeaf8beeed6_ps1_reading_frames.pl
 file_size: 5675
 file_type: text/plain
 learning_resource_types:

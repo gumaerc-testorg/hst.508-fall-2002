@@ -3,7 +3,7 @@ content_type: resource
 description: 'Sample dataset of 5 samples
 
   Gene data'
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/ffcd1d773647ddd0a9b10b5b4a60f217_ps41sample.txt
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/ffcd1d773647ddd0a9b10b5b4a60f217_ps41sample.txt
 file_size: 4206
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hierarchial Methods
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/92542a4aee5d1727092519dda6c01690_hierarchical.pdf
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/92542a4aee5d1727092519dda6c01690_hierarchical.pdf
 file_size: 103227
 file_type: application/pdf
 learning_resource_types:

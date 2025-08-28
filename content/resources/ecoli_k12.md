@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Escherichia coli K-12 MG1655 complete genome
-file: /courses/hst-508-genomics-and-computational-biology-fall-2002/01ce5d6a9dbfb5f76cc9181441544177_Ecoli_K12.txt
+file: /ol-ocw-studio-app/courses/hst-508-genomics-and-computational-biology-fall-2002/01ce5d6a9dbfb5f76cc9181441544177_Ecoli_K12.txt
 file_size: 4705573
 file_type: text/plain
 learning_resource_types:

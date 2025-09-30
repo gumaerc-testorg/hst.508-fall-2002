@@ -49,7 +49,7 @@ Intro 2: Biological Side of Computational Biology; Central Dogma; Comparative Ge
 Note: Please take your initial observations about Problem Set#1 to you first section meetings (i.e. check that you actually have access to Perl & Mathematica).
 {{< tdclose >}}
 {{< tdopen >}}
-For non-biologists: [Primer on molecular biology (PDF)](http://web.ornl.gov/sci/techresources/Human_Genome/publicat/primer2001/primer.pdf) and [Molecular Biology for Computer Scientists](https://tandy.cs.illinois.edu/Hunter_MolecularBiology.pdf).
+For non-biologists: {{% resource_link "29bab787-11a7-4daf-9e8d-69e5d978c449" "Primer on molecular biology (PDF)" %}} and {{% resource_link "e59924ff-59e0-4acb-afeb-d5b39d1f6212" "Molecular Biology for Computer Scientists" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,4 +227,4 @@ _Mathematica 4.2._
 
 Gibas, Cynthia, and Per Jambeck. _Developing Bioinformatics Computer Skills_. O'Reilly, 2001.
 
-Walsh, Linda. _The Perl CD Bookshelf_. O'Reilly. This CD contains 6 "books" that might supplement numerous free resources on the web: [General Perl documents & download](http://www.perl.org/).
+Walsh, Linda. _The Perl CD Bookshelf_. O'Reilly. This CD contains 6 "books" that might supplement numerous free resources on the web: {{% resource_link "994c04f7-adde-4a4c-b276-720feb38a407" "General Perl documents & download" %}}.

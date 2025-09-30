@@ -39,7 +39,7 @@ videos:
 ---
 Audio recordings of each lecture, and associated slides, are presented below. 
 
-The collection of audio lectures is available at [Genomics and Computational Biology MITHST.508F02](https://archive.org/details/MITHST.508F02/) on Internet Archive. 
+The collection of audio lectures is available at {{% resource_link "d4b8f2dd-c3d2-4be2-a56e-397a03b29094" "Genomics and Computational Biology MITHST.508F02" %}} on Internet Archive. 
 
 {{% resource_link "c3e83ea6-1792-704f-0177-60831b143f5a" "Lecture Slides: Intro 1" %}}
 
